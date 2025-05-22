@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS branch_laba_sebelum_pajak_penghasilan_tax

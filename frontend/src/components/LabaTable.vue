@@ -66,7 +66,7 @@
       </table>
 
       <div v-else-if="!loading && !error" class="alert alert-warning">
-        Tidak ada data
+        No found Data
       </div>
     </div>
   </div>
